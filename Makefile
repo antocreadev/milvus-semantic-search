@@ -4,5 +4,4 @@ run :
 delete :
 	docker-compose down
 
-	
 .PHONY: run delete
